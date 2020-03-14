@@ -5,4 +5,8 @@ class Git {
 	this.id = id;
 	this.name = name;
    }
+   
+   Git(String name){
+	this.name = name;
+   }
 } 
